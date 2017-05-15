@@ -58,7 +58,7 @@
 					"tags"		: "wlm",
 					"isPattern"	: "false",
 					"isFavorite"	: "true",
-					"projects"	: "WorkloadManagementApplication:WorkloadManagementApplication",
+					"projects"	: "WorkloadManagementApplication",
 					"editorResPaths": [
 						{
 							"id" : "WorkloadManagementFlow",
