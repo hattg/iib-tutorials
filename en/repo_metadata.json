@@ -52,7 +52,7 @@
 		            		"shortDesc"     : "Learn how to use a Workload Management Policy to control the message processing rate of a message flow.",
 		            		"detailsURL"    : "https://ot4i.github.io/wlm-tutorial/en/details.html",
 		            		"stepsURL"      : "https://ot4i.github.io/wlm-tutorial/en/steps.html",
-					"zipURL" 	: "https://github.com/ot4i/wlm-tutorial/releases/download/V1.0-beta.3/WLMTutorialV1.0.zip",
+					"zipURL" 	: "https://github.com/ot4i/wlm-tutorial/releases/download/v1.0-beta.3/WLMTutorialV1.0.zip",
 					"barFile" 	: "<workspace>/WorkloadManagementApplication/wlm.bar",
 					"visible"	: "true",
 					"tags"		: "wlm",
