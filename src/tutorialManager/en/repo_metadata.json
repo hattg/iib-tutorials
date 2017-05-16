@@ -46,6 +46,34 @@
 					]
 				},
 				{
+		        		"name"          : "Using a Workload Management Policy to 'throttle' throughput of a message flow",
+		            		"version"	: "1.0",
+		            		"iibVersions"	: "10.*-11.*",
+		            		"shortDesc"     : "Learn how to use a Workload Management Policy to control the message processing rate of a message flow.",
+		            		"detailsURL"    : "https://ot4i.github.io/wlm-tutorial/en/details.html",
+		            		"stepsURL"      : "https://ot4i.github.io/wlm-tutorial/en/steps.html",
+					"zipURL" 	: "https://github.com/ot4i/wlm-tutorial/releases/download/V1.0-beta.3/WLMTutorialV1.0.zip",
+					"barFile" 	: "<workspace>/WorkloadManagementApplication/wlm.bar",
+					"visible"	: "true",
+					"tags"		: "wlm",
+					"isPattern"	: "false",
+					"isFavorite"	: "true",
+					"projects"	: "WorkloadManagementApplication",
+					"editorResPaths": [
+						{
+							"id" : "WorkloadManagementFlow",
+							"editor" : "",
+							"wspath" : "<workspace>/WorkloadManagementApplication/WorkloadManagement.msgflow"
+						}
+					],
+			    		"deployedResources" : [
+							{
+							"type": "application",
+							"path": "WorkloadManagementApplication"
+							}
+					]
+				},
+				{
 		        		"name"          : "Call a REST API using the RESTRequest node",
 		            		"version"	: "1.0",
 		            		"iibVersions"	: "10.*-11.*",
