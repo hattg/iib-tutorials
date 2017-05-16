@@ -62,7 +62,7 @@
 					"editorResPaths": [
 						{
 							"id" : "WorkloadManagementFlow",
-							"editor" : "",
+							"editor" : "flow",
 							"wspath" : "<workspace>/WorkloadManagementApplication/WorkloadManagement.msgflow"
 						}
 					],
